@@ -1,0 +1,7 @@
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos ocultos/temporales de descarga de datasets
+datasets/.complete/
+habitos_digitales_contexto_general.txt
