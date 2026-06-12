@@ -1,0 +1,37 @@
+{
+    "feature_columns": [
+        "daily_screen_time_hours",
+        "social_media_hours",
+        "gaming_hours",
+        "work_study_hours",
+        "sleep_hours",
+        "notifications_per_day",
+        "app_opens_per_day",
+        "screen_time_weekend_difference",
+        "social_media_ratio",
+        "gaming_ratio",
+        "work_study_ratio",
+        "usage_intensity_index",
+        "productivity_ratio",
+        "notification_intensity",
+        "total_usage_composite",
+        "sleep_screen_imbalance",
+        "entertainment_dominance",
+        "digital_compulsivity"
+    ],
+    "target_column": "addiction_level_encoded",
+    "original_target": "addiction_level",
+    "class_mapping": {
+        "None": 0,
+        "Mild": 1,
+        "Moderate": 2,
+        "Severe": 3
+    },
+    "raw_columns_for_risk_score": [
+        "daily_screen_time_hours_raw",
+        "sleep_hours_raw",
+        "social_media_hours_raw",
+        "notifications_per_day_raw",
+        "screen_time_weekend_difference_raw"
+    ]
+}

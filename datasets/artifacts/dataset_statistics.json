@@ -1,0 +1,37 @@
+{
+    "total_rows": 7500,
+    "features": 18,
+    "class_distribution": {
+        "Moderate": 2874,
+        "Severe": 2434,
+        "Mild": 1373,
+        "None": 819
+    },
+    "class_percentages": {
+        "Moderate": 38.32,
+        "Severe": 32.45333333333333,
+        "Mild": 18.306666666666665,
+        "None": 10.92
+    },
+    "correlations_with_target": {
+        "total_usage_composite": 0.6252700545652681,
+        "daily_screen_time_hours": 0.5414022868979509,
+        "weekend_screen_time": 0.523358270861782,
+        "sleep_screen_imbalance": 0.45592210130736094,
+        "social_media_hours": 0.3859848649565623,
+        "entertainment_dominance": 0.1221138135656924,
+        "social_media_ratio": 0.06238480034779314,
+        "sleep_hours": 0.032662038771463446,
+        "screen_time_weekend_difference": 0.013909730996943289,
+        "app_opens_per_day": 0.011046782712417949,
+        "gaming_hours": 0.00222232180474504,
+        "usage_intensity_index": 0.0004433554993462101,
+        "work_study_hours": 0.0003204127645314406,
+        "notifications_per_day": -0.00748405543223415,
+        "productivity_ratio": -0.15172416435057384,
+        "gaming_ratio": -0.2795348164989496,
+        "digital_compulsivity": -0.3080829723588205,
+        "work_study_ratio": -0.3081064484327471,
+        "notification_intensity": -0.31210770305180796
+    }
+}
