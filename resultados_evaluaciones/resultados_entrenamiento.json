@@ -1,0 +1,18 @@
+{
+    "clasificador": {
+        "accuracy": 0.5253333333333333,
+        "status": "\u2705 OK"
+    },
+    "predictor": {
+        "r2": 0.9952811160146351,
+        "status": "\u2705 OK"
+    },
+    "explicador": {
+        "r2": 0.43894982769549323,
+        "status": "\u2705 OK"
+    },
+    "generador": {
+        "r2": 0.9085201025009155,
+        "status": "\u2705 OK"
+    }
+}

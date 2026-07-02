@@ -1,0 +1,5 @@
+modelo,accuracy,status,r2
+clasificador,0.5253333333333333,✅ OK,
+predictor,,✅ OK,0.9952811160146351
+explicador,,✅ OK,0.43894982769549323
+generador,,✅ OK,0.9085201025009155
